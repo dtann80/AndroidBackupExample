@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_key_value"
+        android:title="Key Value"/>
+
+    <item
+        android:id="@+id/navigation_auto_backup"
+        android:title="Auto Backup"/>
+
+    <item
+        android:id="@+id/navigation_google_drive_backup"
+        android:title="Google Drive Backup"/>
+
+</menu>
